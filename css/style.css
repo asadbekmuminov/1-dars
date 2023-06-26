@@ -56,7 +56,6 @@ img {
 .header__first-bgcolor {
   background-color: #b36050;
   height: 4.7rem;
-  margin-bottom: 5px;
 }
 .with-fixed {
   position: fixed;
@@ -68,6 +67,7 @@ img {
   line-height: 1.58;
   color: #f1d3b9;
   padding-top: 1rem;
+  margin-bottom: 5px;
 }
 .site-nav_wrapper {
   background-color: #f6f4ec;
